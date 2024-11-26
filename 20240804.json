@@ -1,0 +1,38 @@
+{
+    "zones_with_problems": ["west", "middle", "east"], 
+    "date": "2024-08-04",
+    "url": "null",
+    "Conditions":"Total system failure",
+    "prediction": {
+        "availability": "null",  
+        "demand_max": "null",
+        "impact": "null",
+        "deficit": "null",
+        "backup": "null"
+    },
+    "morning_info": {
+        "time": "null", 
+        "availability": "null", 
+        "demand": "null", 
+        "deficit": "null" 
+    }, 
+    "plants": [
+        {
+            "broken": "null",
+            "maintenance": "null",
+            "limitation": "null"
+    } 
+],
+    "distributed": {
+        "motors_with_problems": "null",
+        "total_impact": "null",
+        "combustible_problem": "null",
+        "ships_with_problems": "null",
+        "motors_impact": "null"
+    },
+    "impact": {
+        "total_hours": "null",
+        "max": "null",
+        "max_hour": "null"
+    }
+}

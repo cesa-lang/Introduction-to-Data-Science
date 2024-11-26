@@ -1,0 +1,9 @@
+Nota informativa.
+En el día de ayer no se afectó el servicio por déficit de capacidad de generación en el SEN. 
+La disponibilidad del SEN a las 07:00 horas es de 2585 MW, la demanda 2150 MW, con todo el sistema con  servicio, en el horario del mediodía no se estiman afectaciones al servicio por déficit de capacidad de generación. 
+Se encuentran fuera por avería la unidad 2 de la CTE Felton y las unidades 1 y 2 de la CTE Santa Cruz.
+Las limitaciones en la generación térmica son de 468 MW. 
+Se encuentran fuera de servicio por combustible 46 centrales de generación distribuida, para un total de 298 MW afectados por este concepto. 
+Para el pico se estima la entrada de los motores de Generación Distribuida que están en espera de mantenimiento y se ha autorizado su uso con 78 MW. 
+Se estima para la hora pico una disponibilidad de 2663 MW y una demanda máxima de 2900 MW, para un déficit de 237 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 307 MW en este horario. 
+UNE-MINEM

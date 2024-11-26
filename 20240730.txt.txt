@@ -1,0 +1,10 @@
+Nota informativa. 
+Situación del SEN para el 30 de julio de 2024.
+En el día de ayer se afectó el servicio por déficit de capacidad de generación desde las 08:06 horas de la mañana y se ha mantenido durante toda la madrugada de hoy.
+La máxima afectación en el día fue 596 MW a las 23:40 horas, coincidente con la hora pico. 
+La disponibilidad del SEN a las 07:00 horas es de 2400 MW, la demanda 2500 MW, con 157 MW afectado en el sistema por déficit de capacidad de generación, en el horario del mediodía se estima una máxima afectacion de 450 MW. 
+Se encuentran fuera por avería la unidad 5 de la CTE Mariel, la unidad 1 de la CTE Santa Cruz, la unidad 6 de la CTE Rente y la unidad 2 de la CTE Felton.
+Las limitaciones en la generación térmica son de 435 MW. 
+Se encuentran fuera de servicio por combustible 58 centrales de generación distribuida, para un total de 404 MW afectados por este concepto. 
+Para el pico se estima la entrada de 4 motores de la CDE Moa con 60 MW, la entrada de la unidad 6 de la CTE Rente con 60 MW y la entrada de la unidad 3 de Energas Varadero y el completamiento de la unidad 4 de esta misma central aportando 45 MW. 
+Se estima para la hora pico una disponibilidad de 2565 MW y una demanda máxima de 3150 MW, para un déficit de 585 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 655 MW en este horario.

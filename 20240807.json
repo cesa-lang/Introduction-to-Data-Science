@@ -1,0 +1,41 @@
+{
+    "zones_with_problems": "null", 
+    "date": "2024-08-07",
+    "url": "https://www.minem.gob.cu/es/noticias/situacion-del-sen/situacion-del-sistema-electrico-para-el-7-de-agosto-de-2024", 
+    "prediction": {
+        "availability": "2480",  
+        "demand_max": "3100",
+        "impact": "690",
+        "deficit": "620",
+        "backup": "False"
+    },
+    "morning_info": {
+        "time": "07:00", 
+        "availability": "2420", 
+        "demand": "2370", 
+        "deficit": "False" 
+    }, 
+    "plants": [
+        {
+            "broken": {
+                "LR":["2"],
+                "AM":["3"],
+                "EG":["2"]
+            },
+            "maintenance": "False",
+            "limitation": "558"
+    } 
+],
+    "distributed": {
+        "motors_with_problems": "55",
+        "total_impact": "397",
+        "combustible_problem": "True",
+        "ships_with_problems": "null",
+        "motors_impact": "397"
+    },
+    "impact": {
+        "total_hours": "1:30",
+        "max": "null",
+        "max_hour": "2150"
+    }
+}

@@ -1,0 +1,17 @@
+Nota informativa.
+En el día de ayer se afectó el servicio por déficit de capacidad de generación las 24 horas, el servicio fue restablecido a las 
+02:34 horas de la madrugada de hoy.
+
+La máxima afectación en el día fue 639 MW a las 19:40 horas, no coincidente con la hora pico. 
+
+La disponibilidad del SEN a las 07:00 horas es de 2500 MW, la demanda 2470 MW, con todo el sistema con servicio, en el horario del mediodía se estima una máxima afectación de 350 MW. 
+
+Se encuentran fuera por averia la unidad 1 de la CTE Santa Cruz, la unidad 5 de la CTE Nuevitas y la unidad 2 de la CTE Felton.      
+
+Las limitaciones en la generacion térmica  son de 474 MW. 
+  
+Se encuentran fuera de servicio por combustible 56 centrales de generación distribuida, para un total de 408 MW afectados por este concepto. Para el pico se estima la entrada de la unidad 1 de la CTE Santa Cruz con 70 MW y la entrada de la unidad 5 de la CTE Nuevitas con 70 MW. 
+
+Se estima para la hora pico una disponibilidad de 2640 MW y una demanda máxima de 3180 MW, para un déficit de 540 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectacion de 610 MW en este horario. 
+
+UNE-MINEM

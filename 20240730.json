@@ -1,0 +1,43 @@
+{
+    "zones_with_problems": "null", 
+    "date": "2024-07-30",
+    "url": "https://www.minem.gob.cu/es/noticias/situacion-del-sen/situacion-del-sistema-electrico-para-el-30-de-julio-de-2024", 
+    "prediction": {
+        "availability": "2565",  
+        "demand_max": "3150",
+        "impact": "655",
+        "deficit": "585",
+        "backup": "False"
+    },
+    "morning_info": {
+        "time": "07:00", 
+        "availability": "2400", 
+        "demand": "2500", 
+        "deficit": "100" 
+    }, 
+    "plants": [
+        {
+            "broken": {
+                "MG":["5"],
+                "EG":["1"],
+                "AM":["6"],
+                "LR":["2"]
+
+            },
+            "maintenance": "False",
+            "limitation": "435"
+    } 
+],
+    "distributed": {
+        "motors_with_problems": "58",
+        "total_impact": "404",
+        "combustible_problem": "True",
+        "ships_with_problems": "null",
+        "motors_impact": "404"
+    },
+    "impact": {
+        "total_hours": "null",
+        "max": "null",
+        "max_hour": "2340"
+    }
+}

@@ -1,0 +1,20 @@
+Nota informativa. 
+Situación del SEN para el 6 de agosto de 2024.
+
+ En el día de ayer se afectó el servicio por déficit de capacidad de generación desde las 17:18 horas de la tarde hasta las 00:47 horas de la madrugada de hoy.
+
+ La máxima afectación en el día fue 247 MW a las 21:00 horas, coincidente con la hora pico. 
+
+ La disponibilidad del SEN a las 07:00 horas es de 2426 MW, la demanda 2350 MW, con todo el sistema con servicio, en el horario del mediodía no se estiman afectaciones al servicio por déficit de capacidad de generación, aunque se cuenta con bajos niveles de reserva. 
+
+ Se encuentran fuera por avería la unidad 2 de la CTE Felton, la unidad 3 de la CTE Renté y las unidades 1 y 2 de la CTE Santa Cruz.
+
+ Las limitaciones en la generación térmica son de 459 MW. 
+
+ Se encuentran fuera de servicio por combustible 45 centrales de generación distribuida, para un total de 276 MW afectados por este concepto. 
+
+ Para el pico se estima la entrada de los motores de Generación Distribuida que están en espera de mantenimiento y se ha autorizado su uso con 81 MW, la entrada de la unidad 1 de la CTE Santa Cruz con 70 MW y la entrada de la Unidad 3 de la CTE Renté con 70 MW.
+ 
+ Se estima para la hora pico una disponibilidad de 2647 MW y una demanda máxima de 2950 MW, para un déficit de 303 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 373 MW en este horario.
+
+UNE-MINEM

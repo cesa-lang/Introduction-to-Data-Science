@@ -1,0 +1,10 @@
+Nota informativa. 
+Situación del SEN para el 29 de julio de 2024.
+En el día de ayer se afectó el servicio por déficit de capacidad de generación desde las 17:00 horas de la tarde hasta las 04:43 horas de la madrugada de hoy.
+La máxima afectación en el día fue 481 MW a las 23:10 horas, no coincidente con la hora pico, superior a lo planificado por incremento de la indisponibilidad por combustible en la generación distribuida y demanda superior al pronóstico. 
+La disponibilidad del SEN a las 07:00 horas es de 2420 MW, la demanda 2390 MW, con todo el sistema con servicio, en el horario del mediodía se estima una afectaciones al servicio por déficit de capacidad de generación de 450 MW. 
+Se encuentran fuera por avería la unidad 5 de la CTE Mariel, la unidad 1 de la CTE Santa Cruz y la unidad 2 de la CTE Felton.
+Las limitaciones en la generación térmica son de 450 MW. 
+Se encuentran fuera de servicio por combustible 61 centrales de generación distribuida, para un total de 463 MW afectados por este concepto. 
+Se estima para la hora pico una disponibilidad de 2420 MW y una demanda máxima de 3150 MW, para un déficit de 730 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 800 MW en este horario.
+UNE-MINEM

@@ -1,0 +1,11 @@
+Nota informativa. 
+Situación del SEN para el 10 de agosto de 2024.
+En el día de ayer se afectó el servicio por déficit de capacidad de generación desde las 08:31 horas de la mañana.
+La máxima afectación en el día fue 610 MW a las 20:50 horas, coincidente con la hora pico. A las 23:21 minutos salió de línea la unidad número 1 de la CTE Felton por un problema automático, lo que provocó que se mantuviera la afectación durante toda la madrugada.
+La disponibilidad del SEN a las 07:00 horas es de 2050 MW, la demanda 2330 MW con 350 MW afectado, se estima a la media una afectación de 650 MW.
+Se encuentran fuera por avería la unidad 8 de la CTE Mariel, la unidad 2 de la CTE Santa Cruz, la unidad 4 de la CTE Cienfuegos, la unidad 5 de la CTE Nuevitas, las unidades 1 y 2 de la CTE Felton y las unidades 5 y 6 de la CTE Renté. 
+Las limitaciones en la generación térmica son de 231 MW. 
+Se encuentran fuera de servicio por combustible 68 centrales de generación distribuida, para un total de 361 MW afectados por este concepto. 
+
+Se estima para la hora pico la entrada de la unidad 8 de la CTE Mariel (en proceso de arranque) con 70MW, la entrada de la  unidad 5 de la CTE Renté con 50MW y la recuperación de 60MW que se encuentran fuera por combustible, con esto se estima una disponibilidad de 2230 MW y una demanda máxima de 3000 MW, para un déficit de  770 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 840 MW en este horario.
+UNE-MINEM

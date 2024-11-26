@@ -1,0 +1,44 @@
+{
+    "zones_with_problems": "null", 
+    "date": "2024-08-10",
+    "url": "https://t.me/EmpresaElectricaDeLaHabana/26932", 
+    "prediction": {
+        "availability": "2230",  
+        "demand_max": "3000",
+        "impact": "840",
+        "deficit": "770",
+        "backup": "False"
+    },
+    "morning_info": {
+        "time": "07:00", 
+        "availability": "2050", 
+        "demand": "2330", 
+        "deficit": "280" 
+    }, 
+    "plants": [
+        {
+            "broken": {
+                "MG":["8"],
+                "EG":["2"],
+                "CM":["4"],
+                "DO":["5"],
+                "LR":["1","2"],
+                "AM":["5","6"]
+            },
+            "maintenance": "False",
+            "limitation": "231"
+    } 
+],
+    "distributed": {
+        "motors_with_problems": "68",
+        "total_impact": "361",
+        "combustible_problem": "True",
+        "ships_with_problems": "null",
+        "motors_impact": "361"
+    },
+    "impact": {
+        "total_hours": "null",
+        "max": "null",
+        "max_hour": "2050"
+    }
+}
